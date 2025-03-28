@@ -33,8 +33,8 @@ The main class with MSTest tests.
 * .NET SDK (version 6.0 or higher)
 * Firefox and Edge (to work with the appropriate drivers)
 * GeckoDriver (for Firefox)
-* EdgeDriver (for Microsoft Edge)
-* Selenium WebDriver and Selenium Support (NuGet)
-* MSTest (NuGet)
-* FluentAssertions (NuGet)
-* Serilog (NuGet) + Serilog.Sinks.Console (NuGet)
+* EdgeDriver
+* Selenium WebDriver and Selenium Support
+* MSTest
+* FluentAssertions
+* Serilog + Serilog.Sinks.Console
