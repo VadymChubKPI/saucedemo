@@ -28,7 +28,7 @@ The main class with MSTest tests.
 * Contains the <mark>[assembly: Parallelize(...)]</mark> attribute, which allows you to execute tests in parallel.
 * Uses the <mark>[AssemblyInitialize]</mark> and <mark>[AssemblyCleanup]</mark> attributes to globally initialise and close Serilog logging.
 
-## Requirements.
+## Requirements:
 
 * .NET SDK (version 6.0 or higher)
 * Firefox and Edge (to work with the appropriate drivers)
